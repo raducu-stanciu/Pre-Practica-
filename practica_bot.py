@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackContext,filters, M
 
 
 # Replace with your own API token
-API_TOKEN = '6980348766:AAEZlPXaKie-NamXM4Q8ZJv28XNdEVpLnHg'
+API_TOKEN = '-'
 
 async def start(update: Update, context: CallbackContext) -> None:
     await update.message.reply_text("Hello! I am your bot. Send /help to see the list of available commands.")
