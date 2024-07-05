@@ -1,2 +1,2 @@
-# Pre-Practica-
+# Pre-Practica
 Document in a GDoc, make a presentation in English and post a code in Github for connecting IoT devices (raspberry pi, esp, pycom, arduino, libelium, galileo, android, etc.) via MQTT to the database, storage on the blockchain (Ethereum, IOTA, Hyperledger, etc.), orchestrating services with Arrowhead using docker and viewing in a mobile application, using Node-Red for data processing, viewing data in Grafana, setting notifications in Grafana, configuring local data storage in a folder with candidate name and auto-start resynchronization of local data with the cloud in case of power or data network failure, data query via chatbot or voicebot.
